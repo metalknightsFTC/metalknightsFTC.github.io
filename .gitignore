@@ -4,5 +4,6 @@
 .jekyll-metadata
 _site
 gemfile.lock
+Gemfile.lock
 .DS_Store
 *.DS_Store
