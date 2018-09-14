@@ -45,7 +45,7 @@ $grey-color-dark:				darken($grey-color, 25%);
 
 // Since Liquid is not available, it is necessary to redefine the baseurl from the _config.yml file here
 //
-$baseurl:						"/classic-jekyll-theme"; // eg: "/classic" a leading '/' is important.
+$baseurl:						"/"; // eg: "/classic" a leading '/' is important.
 
 // *********************************************************************************************************************
 // General color and background settings
@@ -754,7 +754,7 @@ $menubar-subsubitem-separator-line-color-narrow:	$menubar-background-narrow;
 // Before the items and item separators are loaded into the menubar, a menubar icon can be loaded.
 // The file _included/menubar-icon.html can be used for complex icons, or the icon can be assigned here.
 // The menubar icon can also be used to provide some padding before the home item in the menubar.
-// Note that the menubar icon is not shown in the narrow layout. 
+// Note that the menubar icon is not shown in the narrow layout.
 //
 // The icon (image)
 // CSS property: content
@@ -834,7 +834,7 @@ $column-separator-display:				true;
 // Set the space between the top of the separator and the menubar-bottom-separator.
 // The background for the separator is the background of the column panel.
 // CSS property: margin-top
-// 
+//
 $column-separator-top-spacing:			$vspacing-unit;
 
 // Set the space between the bottom of the separator and the footer separator.
@@ -990,7 +990,7 @@ $vmenu-subitem-disclosure-symbol-open:					'\021E9';
 
 // The width of the disclosure symbol.
 // CSS property: width
-// 
+//
 $vmenu-subitem-disclosure-area-width-medium:			1.2em;
 $vmenu-subitem-disclosure-area-width-widest:			1.2em;
 
