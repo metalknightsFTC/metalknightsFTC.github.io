@@ -16,7 +16,7 @@
 title: Metalknights
 email: metalknightsFTC@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Theme is https://balancingrock.github.io/classic-jekyll-theme
+  Go forward, the future never waits
 baseurl: "/" # the subpath of your site, e.g. /blog note that it must _also_ be defined in classic-jekyll-theme.scss!
 url: "https://metalknights.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
