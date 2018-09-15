@@ -45,7 +45,7 @@ $grey-color-dark:				darken($grey-color, 25%);
 
 // Since Liquid is not available, it is necessary to redefine the baseurl from the _config.yml file here
 //
-$baseurl:						"/"; // eg: "/classic" a leading '/' is important.
+$baseurl:						""; // eg: "/classic" a leading '/' is important.
 
 // *********************************************************************************************************************
 // General color and background settings
@@ -108,9 +108,9 @@ $banner-enabled-widest:					true;
 // Always set a fixed value ('auto' and percentages don't work)
 // CSS property: Height
 //
-$banner-height-narrow:					48px;
-$banner-height-medium:					68px;
-$banner-height-widest:					135px;
+$banner-height-narrow:					75px;
+$banner-height-medium:					100px;
+$banner-height-widest:					200px;
 
 // The background of the banner. (Not the banner-area!)
 // CSS property: Background.
@@ -146,8 +146,8 @@ $banner-icon-z-index-widest:			1;
 // Useful values: flex-start, center, flex-end.
 //
 $banner-icon-justify-content-narrow:	flex-start;
-$banner-icon-justify-content-medium:	flex-start;
-$banner-icon-justify-content-widest:	flex-start;
+$banner-icon-justify-content-medium:	center;
+$banner-icon-justify-content-widest:	center;
 
 // Positions the icon verticall in the banner area.
 // CSS property: align-items
@@ -185,9 +185,9 @@ $banner-icon-padding-widest:			0px;
 // Example: $banner-icon-url-...: url("#{$baseurl}/assets/img/wide-icon.png");
 // Set to 'none' if there is no banner icon.
 //
-$banner-icon-url-narrow:				url("#{$baseurl}/assets/img/cog-wheels-60x43.png");
-$banner-icon-url-medium:				url("#{$baseurl}/assets/img/cog-wheels-120x68.png");
-$banner-icon-url-widest:				url("#{$baseurl}/assets/img/cog-wheels-240x135.png");
+$banner-icon-url-narrow:				url("#{$baseurl}/assets/img/shield-small.png");
+$banner-icon-url-medium:				url("#{$baseurl}/assets/img/shield-medium.png");
+$banner-icon-url-widest:				url("#{$baseurl}/assets/img/shield-large.png");
 
 // The background for the icon div.
 // CSS property: background
@@ -209,8 +209,8 @@ $banner-icon-background-widest:			none;
 // Values: true | false
 //
 $banner-title-enabled-narrow:					true;
-$banner-title-enabled-medium:					true;
-$banner-title-enabled-widest:					true;
+$banner-title-enabled-medium:					false;
+$banner-title-enabled-widest:					false;
 
 // Controls display of the subtitle.
 // Note: Disabling the banner also disables the subtitle.
@@ -218,7 +218,7 @@ $banner-title-enabled-widest:					true;
 // Values: true | false
 //
 $banner-subtitle-enabled-narrow:				false;
-$banner-subtitle-enabled-medium:				false;
+$banner-subtitle-enabled-medium:				true;
 $banner-subtitle-enabled-widest:				true;
 
 // The z-order of the title-area. Use this to position the title-area relative to the icon and the menu-symbol.
@@ -265,7 +265,7 @@ $banner-title-area-justify-content-widest:		center;
 //
 $banner-title-area-align-items-narrow:			center;
 $banner-title-area-align-items-medium:			center;
-$banner-title-area-align-items-widest:			center;
+$banner-title-area-align-items-widest:			flex-end;
 
 // Position the title and subtitle either above eachother or next to each other.
 // CSS property: flex-direction
@@ -291,7 +291,7 @@ $banner-title-subtitle-justify-content-widest:	center;
 // Useful values are: flex-start | center | flex-end
 //
 $banner-title-subtitle-align-items-narrow:		center;
-$banner-title-subtitle-align-items-medium:		center;
+$banner-title-subtitle-align-items-medium:		flex-end;
 $banner-title-subtitle-align-items-widest:		flex-end;
 
 // Fine tuning of the title position.
@@ -346,7 +346,7 @@ $banner-title-color-widest:						$theme-color;
 //
 $banner-subtitle-color-narrow:					$theme-color;
 $banner-subtitle-color-medium:					$theme-color;
-$banner-subtitle-color-widest:					lighten(black, 50%);
+$banner-subtitle-color-widest:					$theme-color;
 
 
 // *********************************************************************************************************************

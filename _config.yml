@@ -13,19 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Classic Jekyll Theme
-email: your-email@domain.com
+title: Metalknights
+email: metalknightsFTC@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  All you ever needed in a theme...
-baseurl: "" # the subpath of your site, e.g. /blog note that it must _also_ be defined in classic-jekyll-theme.scss!
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Theme is https://balancingrock.github.io/classic-jekyll-theme
+baseurl: "/" # the subpath of your site, e.g. /blog note that it must _also_ be defined in classic-jekyll-theme.scss!
+url: "https://metalknights.me" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+facebook_username: MetalKnightsRobotics
+github_username:  metalknightsFTC
+instagram_username: metal_knights12651
 
 # Build settings
 markdown: kramdown
 keep_files: [assets, icons]
 exclude: [README.md]
-remote_theme: balancingrock/classic-jekyll-theme
+remote_theme: balancingrock/classic-jekyll-theme@master
 plugins:
   - jekyll-feed

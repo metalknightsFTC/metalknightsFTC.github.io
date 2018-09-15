@@ -25,5 +25,15 @@ Configure the text for the header message in "_data/text-for.yml" for the item `
 	{% include widgets/social-media-res/icon-twitter.html username=site.twitter_username %}
 		</div>
 {%- endif %}
+{%- if site.instagram_username %}
+		<div>
+	{% include widgets/social-media-res/icon-instagram.html username=site.instagram_username %}
+		</div>
+{%- endif %}
+{%- if site.facebook_username %}
+		<div>
+	{% include widgets/social-media-res/icon-facebook.html username=site.facebook_username %}
+		</div>
+{%- endif %}
 </div>
 <!-- end of include social-media.html -->

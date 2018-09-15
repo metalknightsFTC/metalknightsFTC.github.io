@@ -31,7 +31,7 @@ tertiary-column: present
 
 # A subtitle can be displayed in de banner
 #
-subtitle: "easy to use and highly customizable"
+subtitle: "A FTC team based in Alaska"
 
 # Skip some of the build process for faster recompilation during content creation.
 # Values: yes | no
@@ -90,7 +90,7 @@ banner-position: top
 # Note 2: When the drop-down menus are not used, any items in the menubar without a linked page will become useless.
 # Note 3: Setting to 'no' will result in slower compilation. If possible, setting this to 'yes' during content development will help speed up the workflow.
 #
-drop-down-menu: yes 
+drop-down-menu: yes
 
 # Controls the generation of the categories menu entry in the menu bar if the drop-down-menu option is set to 'yes'. Has no impact on the categories widget.
 # Values: yes | no
