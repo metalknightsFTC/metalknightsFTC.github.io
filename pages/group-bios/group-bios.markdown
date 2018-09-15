@@ -3,7 +3,7 @@ layout: page
 title: Meet the Team
 menuTopTitle: Meet The Team
 menuInclude: true
-tertiary-column: present
+
 menuTopIndex: 3
 ---
 ### Alekszander McCormick

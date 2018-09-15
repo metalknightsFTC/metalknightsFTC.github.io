@@ -4,7 +4,7 @@ title: Team Resources
 type: page
 menuTopTitle: Team Resources
 menuInclude: true
-tertiary-column: present
+
 menuTopIndex: 2
 excerpt: A set of links to useful stuff pertaining to this year's FTC Challenge.
 ---

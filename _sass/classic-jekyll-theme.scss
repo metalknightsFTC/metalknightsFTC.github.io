@@ -109,8 +109,8 @@ $banner-enabled-widest:					true;
 // CSS property: Height
 //
 $banner-height-narrow:					75px;
-$banner-height-medium:					100px;
-$banner-height-widest:					200px;
+$banner-height-medium:					100px + $vspacing-unit * 2;
+$banner-height-widest:					200px + $vspacing-unit * 2;
 
 // The background of the banner. (Not the banner-area!)
 // CSS property: Background.

@@ -27,7 +27,7 @@ secondary-column: left
 # The tertiary column must reside in the "_includes" directory and is called "tertiary-column.html"
 # Front matter can specify a different file for the tertiary column ("tertiary-column-content").
 #
-tertiary-column: present
+tertiary-column: none
 
 # A subtitle can be displayed in de banner
 #
