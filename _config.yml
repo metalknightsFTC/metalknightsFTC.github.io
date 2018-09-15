@@ -28,6 +28,6 @@ instagram_username: metal_knights12651
 markdown: kramdown
 keep_files: [assets, icons]
 exclude: [README.md]
-remote_theme: balancingrock/classic-jekyll-theme@master
+remote_theme: balancingrock/classic-jekyll-theme
 plugins:
   - jekyll-feed
