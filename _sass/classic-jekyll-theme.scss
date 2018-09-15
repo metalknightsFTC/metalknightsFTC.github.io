@@ -796,7 +796,7 @@ $column-panel-background-widest:		none;
 //
 $primary-column-min-width:				480px;
 $secondary-column-width: 				240px;
-$tertiary-column-width:					240px;
+$tertiary-column-width:					340px;
 
 // For the primary column.
 // CSS property: background
@@ -1167,4 +1167,5 @@ $category-item-padding:						$vspacing-unit/8 $hspacing-unit/4 $vspacing-unit/8 
   //
   "classic/custom",					// To be used in markdown, add your own here
   "classic/widgets"					// For the widgets, add your own settings for your own widgets here
+
 ;
