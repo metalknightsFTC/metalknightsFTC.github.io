@@ -3,6 +3,10 @@
 {%- comment -%}<!-- This widget separator will only show up when the tertiary column content is merged into the secondary column-->{%- endcomment %}
 <div class="tertiary-widget-separator"></div>
 <div class="widget">
-{% include widgets/browser-info.html %}
+{%- if site.twitter_username -%}
+{% include widgets/twitter.html username=site.twitter_username %}
+{%- else if site.facebook_username -%}
+{% include widgets/facebook.html username=site.facebook_username %}
+{% endif %}
 </div>
 <!-- end of include tertiary-column.html -->
