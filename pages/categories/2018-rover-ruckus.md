@@ -1,6 +1,6 @@
 ---
 layout: category-page
-title: relic-recovery
+title: 2018 Rover Ruckus
 ---
 
 This file is only used to initiate the compilation of a category page for the category shown as title.
