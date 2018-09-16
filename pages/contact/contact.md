@@ -8,6 +8,4 @@ excerpt: Contact information for this site.
 tertiary-column: none
 ---
 
-
-- Before the at sign: alexterry43
-- After the at sign: gmail.com
+you can contact the Metal Knights by [email here](metalknightsftc@gmail.com).
