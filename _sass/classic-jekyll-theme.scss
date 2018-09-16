@@ -108,9 +108,9 @@ $banner-enabled-widest:					true;
 // Always set a fixed value ('auto' and percentages don't work)
 // CSS property: Height
 //
-$banner-height-narrow:					75px;
-$banner-height-medium:					100px + $vspacing-unit * 2;
-$banner-height-widest:					200px + $vspacing-unit * 2;
+$banner-height-narrow:					75px; // height of the icon
+$banner-height-medium:					100px + 16px + 6px;; // the height of the icon and the subtitle, and a little bit more
+$banner-height-widest:					200px + 18px + 6px; // the height of the icon and the subtitle, and a little bit more
 
 // The background of the banner. (Not the banner-area!)
 // CSS property: Background.
@@ -264,7 +264,7 @@ $banner-title-area-justify-content-widest:		center;
 // Useful values are: flex-start | center | flex-end
 //
 $banner-title-area-align-items-narrow:			center;
-$banner-title-area-align-items-medium:			center;
+$banner-title-area-align-items-medium:			flex-end;
 $banner-title-area-align-items-widest:			flex-end;
 
 // Position the title and subtitle either above eachother or next to each other.
