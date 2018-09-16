@@ -25,9 +25,9 @@ Configure the text for the header message in "_data/text-for.yml" for the item `
 	{% include widgets/social-media-res/icon-twitter.html username=site.twitter_username %}
 		</div>
 {%- endif %}
-{%- if site.youtube_username %}
+{%- if site.youtube_displayname %}
 		<div>
-	{% include widgets/social-media-res/icon-youtube.html username=site.youtube_username %}
+	{% include widgets/social-media-res/icon-youtube.html displayname=site.youtube_displayname channelid=site.youtube_channelid %}
 		</div>
 {%- endif %}
 {%- if site.instagram_username %}
