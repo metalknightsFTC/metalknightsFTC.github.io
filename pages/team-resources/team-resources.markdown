@@ -12,6 +12,8 @@ Resources
 
 [a guide on markdown](/pages/how-to-use-markdown.html)
 
+[Theme Documentation (for things like specifics on how things work)](https://balancingrock.github.io/classic-jekyll-theme/)
+
 **Game Manuals**
 ----------------
 
