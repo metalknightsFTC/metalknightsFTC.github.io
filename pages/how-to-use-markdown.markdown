@@ -33,12 +33,15 @@ A header 1
 ==========
 ```
 
-
 # Styling Text
 
 you can bold things like this: `**this is bold**`
 
 bold things can be put **anywhere** in a sentence.
+
+italics are equally as simple: `*italics.*`
+
+we *can combine* ***italics and bold*** if we want.
 
 strike-through stuff with double `~~like this~~`.
 
