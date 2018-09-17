@@ -4,13 +4,25 @@ title: "How to use markdown - a Beginner's Guide"
 published: true
 ---
 
+# Front Matter
 
-that stuff up there is called the front matter. it dictates how this file is rendered to the static website.
+the stuff at the top of a post is the front matter. it dictates how this file is rendered to the static website.
 
-the date is when the post was published.
+here is some front matter for a post (make sure its in the \_posts folder, and it's title matches the format `$year-$month-$day-post-title-with-dashs.markdown`)
+
+
+```
+---
+layout: post
+title: the title of the post
+date: 2018-11-30
+---
+```
 
 
 you can copy this, into your new file. just make sure the date is correct, and the add the `category: "2018 Rover Ruckus"` to it somewhere.
+
+you can also mark a post as not to be posted yet by adding `publish: false` to its front matter.
 
 
 # Headers
@@ -45,7 +57,7 @@ we *can combine* ***italics and bold*** if we want.
 
 strike-through stuff with double `~~like this~~`.
 
-like bolding things, ~~strike-through can also be~~ in the middle of sentences
+like bolding and italics, ~~strike-through can also be~~ in the middle of sentences.
 
 ## Links
 
@@ -54,6 +66,7 @@ example bellow links to google.
 
 [this goes to google!](https://google.com)
 
+# Embedding Media
 
 ## photos and images
 
@@ -73,13 +86,18 @@ you can change the height and width of the image like so:
 
 you can set both `height` and `width`, or one or the other.
 
-**the above also works with videos, although those should go on youtube. see bellow.**
+**the above also works with videos, although those should go on YouTube. see bellow.**
 
 ## Videos  
 
 
-you can embed a youtube video with the following code:
+you can embed a YouTube video with the following code:
 {%raw%}
 `{%- include widgets/youtube-player.html video='the video's ID' -%}`
 {%endraw%}
 	{%- include widgets/youtube-player.html video='rR4gR4l2XA8' -%}
+
+
+# Further Reading
+
+the only things on this page that are specific to our website is the YouTube embedding stuff. a more exhaustive source on markdown is available [Here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
