@@ -8,4 +8,4 @@ excerpt: Contact information for this site.
 tertiary-column: none
 ---
 
-you can contact the Metal Knights by [email here](metalknightsftc@gmail.com).
+You can contact the Metal Knights by email at metalknightsftc@gmail.com.
