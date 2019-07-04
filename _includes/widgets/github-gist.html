@@ -1,0 +1,26 @@
+
+<!-- include gist-github.html -->
+{%- comment -%}<!--
+
+Usage:
+
+Include the `author` (eg. metalknightsFTC)
+Include the `gist` ID (from the url)
+
+(optional) include a `file` (only useful for multi-file gists)
+if you do not include a file from a gist, it will embed all files.
+example usage:
+	
+Single File () https://gist.github.com/mralext20/3641ca3d6a8ace016fb9f8a798fc644f )
+
+	{%- include widgets/github-gist.html author='mralext20' gist='3641ca3d6a8ace016fb9f8a798fc644f' -%}
+	
+Single file from gist with multiple ( https://gist.github.com/LuisMDeveloper/a900acbf7140c18217dc7a1679c52114 )
+
+	{%- include widgets/github-gist.html author='LuisMDeveloper' gist='a900acbf7140c18217dc7a1679c52114' file='example-bower.json' -%}
+
+-->{%- endcomment -%}
+<div>
+	<script src="https://gist.github.com/{{include.author}}/{{include.gist}}.js{%- if include.file != false-%}?file={{include.file}}{%-endif-%}"></script>
+</div>
+<!-- end of include github-gist.html -->
