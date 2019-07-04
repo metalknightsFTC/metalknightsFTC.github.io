@@ -25,9 +25,9 @@ If we need extra help [ask the forum.](https://ftcforum.usfirst.org/)
 
 **Game Manuals**
 ----------------
-Add new season's stuff
+Coming This September.
 
 **Game Field Assembly**
 -----------------------
 
-Add new season's stuff
+Coming This September.
