@@ -18,6 +18,11 @@ Thingiverse
 ===========
 [CAD files posted by Aleks McCormick](https://www.thingiverse.com/miner90027/designs)
 
+FTC Forum
+=========
+
+If we need extra help [ask the forum.](https://ftcforum.usfirst.org/)
+
 **Game Manuals**
 ----------------
 Add new season's stuff
