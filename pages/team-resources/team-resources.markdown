@@ -14,6 +14,8 @@ Resources
 
 [Theme Documentation (for things like specifics on how things work)](https://balancingrock.github.io/classic-jekyll-theme/)
 
+[GitHub](https://github.com/metalknightsFTC)
+
 Thingiverse
 ===========
 [CAD files posted by Aleks McCormick](https://www.thingiverse.com/miner90027/designs)
