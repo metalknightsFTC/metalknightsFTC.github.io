@@ -7,12 +7,12 @@ Include the `author` (eg. metalknightsFTC)
 Include the `repository` (eg. metalknightsFTC.github.io)
 include the `filePath` (eg. _includes/widgets/github-repository.html)
 
-{%- include widgets/github-repository.html author='author' repository='repository name' filePath='the file path' -%}
+{%- include widgets/github-repository.html author='author' repository='repository name' path='the file path' -%}
 
 
 -->{%- endcomment ->}
 
 <div>
-	<script src="http://gist-it.appspot.com/github/{{ include.author }}/{{ include.repository }}/raw/master/{{ include.filePath }}"></script>
+	<script src="http://gist-it.appspot.com/github/{{ include.author }}/{{ include.repository }}/raw/master/{{ include.path }}"></script>
 </div>
 <!-- end of include github-repository.html -->
