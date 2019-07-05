@@ -11,7 +11,9 @@ menuTopIndex: 3
 ![](/assets/img/team/aleks.jpg)
 
 Age:17
+
 Grade:12
+
 Position:Engineering Director & Software Engineer
 
 I first started robotics when I was in 4th grade with FLL, in San Antonio Texas. There I competed for my 4th & 5th grade years. Afterward my family moved to Mississippi where I couldn't find any local FLL team. So I spent my middle school years not doing robotics. We moved to Alaska after my last year of middle school. When I got up here we lived in Houston which didn't have a robotics. When we moved to Wasilla, I went to Colony High my sophomore year. I got excited when picking out my classes that they offered robotics. When in the class we were doing using FTC as a base for the class. When Mr. Mead asked who would like to join the competitive team my hand was the first to go up. That was two years ago, now I intend to perk the interests of others and have them join our team.
