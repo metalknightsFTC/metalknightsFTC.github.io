@@ -1,6 +1,5 @@
 ---
 layout: category-page
-category: "2019 Sky Stone"
 title: 2019 Robot Code
 ---
 
