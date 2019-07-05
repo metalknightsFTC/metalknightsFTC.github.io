@@ -17,7 +17,7 @@ Resources
 
 Thingiverse
 ===========
-[CAD] files posted by Aleks McCormick(https://www.thingiverse.com/miner90027/designs)
+[CAD](https://www.thingiverse.com/miner90027/designs) files posted by Aleks McCormick
 
 FTC Forum
 =========
