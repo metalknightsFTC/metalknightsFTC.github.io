@@ -23,7 +23,9 @@ I first started robotics when I was in 4th grade with FLL, in San Antonio Texas.
 ![](/assets/img/team/morgan.jpg)
 
 Age:
+
 Grade:
+
 Position:
 
 Morgan is 14 and is attending the ninth grade at Colony High School. Morgan is the business leader for our team. Morgan's future plans are to graduate high school while staying with FTC the entire time and going to a good college.
@@ -33,7 +35,9 @@ Morgan is 14 and is attending the ninth grade at Colony High School. Morgan is t
 ![](/assets/img/team/micah.jpg)
 
 Age:
+
 Grade:
+
 Position:
 
 Micah Nashold is 15 years old and is currently enrolled as a 10th grader at Colony High School. He is the secondary Programmer in the Metal Knights. Micah plans to be a programmer after High School.
@@ -43,7 +47,9 @@ Micah Nashold is 15 years old and is currently enrolled as a 10th grader at Colo
 ![](/assets/img/team/jaydon.jpg)
 
 Age:
+
 Grade:
+
 Position:
 
 Jaydon is 15 and attends 10th grade at Colony High School. He is a builder in the robotics team. Jaydon grew up playing with Legos and it inspired a want to build something that will help people.
@@ -54,7 +60,9 @@ Jaydon is 15 and attends 10th grade at Colony High School. He is a builder in th
 ![](/assets/img/team/keet.jpg)
 
 Age:
+
 Grade:
+
 Position:
 
 Keet Tlien Lorrigan is 16 years old and is a sophomore at Colony High School. His position on the team is an assistant builder. He hopes to gain valuable experience on the Metal Knights Robotics Team.
@@ -62,20 +70,26 @@ Keet Tlien Lorrigan is 16 years old and is a sophomore at Colony High School. Hi
 ### **Jesse Lehman**
 
 Age:
+
 Grade:
+
 Position:
 
 
 ### **Bodie Rockefeller**
 
 Age:
+
 Grade:
+
 Position:
 
 ### **Carter Hawthorne**
 
 Age:
+
 Grade:
+
 Position:
 
 
