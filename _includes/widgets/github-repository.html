@@ -1,1 +1,16 @@
- 
+<!-- include github-repository.html -->
+{%- comment -%}<!--
+
+Usage:
+
+Include the `author` (eg. metalknightsFTC)
+Include the `repository` (eg. metalknightsFTC.github.io)
+include the `filePath` (eg. _includes/widgets/github-repository.html)
+
+
+-->{%- endcomment ->}
+
+<div>
+	<script src="http://gist-it.appspot.com/github/{{include.author}}/{{include.repository}}/raw/master/{{include.filePath}}"></script>
+</div>
+<!-- end of include github-repository.html -->
