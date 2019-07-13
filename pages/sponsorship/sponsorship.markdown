@@ -1,10 +1,10 @@
 ---
-publised: false
 layout: page
 title: Sponsorship
 date: 2017-10-12 11:01:56.000000000 -08:00
 menuTopTitle: Sponsorship
 menuInclude: true
+publised: false
 tertiary-column: none
 menuTopIndex: 4
 ---
