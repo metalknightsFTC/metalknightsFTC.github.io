@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Go forward, the future never waits
 baseurl: "/" # the subpath of your site, e.g. /blog note that it must _also_ be defined in classic-jekyll-theme.scss!
 url: "https://metalknights.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Metal_Knights12651
+twitter_username: knights12651
 facebook_username: MetalKnightsRobotics
 youtube_channelid: UCqOI3QK_AAuPuIFYd2v5XCg # the part in the URL bar after youtube.com/channel/
 youtube_displayname: Metal Knights FTC 12651
