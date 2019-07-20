@@ -5,4 +5,4 @@ date: 2019-07-05
 category: "2019 Sky Stone"
 ---
 
-Check out our GitHub. We have copies of our robot code. [CLICK HERE TO GO TO OUR GITHUB PAGE] (https://github.com/metalknightsFTC)
+Check out our GitHub. We have copies of our robot code. [CLICK HERE TO GO TO OUR GITHUB PAGE](https://github.com/metalknightsFTC)
