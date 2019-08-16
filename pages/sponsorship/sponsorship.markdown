@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sponsorship
-date: 2019-8-15 11:01:56.000000000 -08:00
 menuTopTitle: Sponsorship
 menuInclude: true
 publised: true
