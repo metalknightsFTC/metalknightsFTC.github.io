@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Outreach
-date: 2017-10-12 11:01:56.000000000 -08:00
 menuTopTitle: Outreach
 menuInclude: true
 publised: false
