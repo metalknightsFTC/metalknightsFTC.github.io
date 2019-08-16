@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASTE Conference Robot in a Day"
-date: 2019-02-12
+date: 2019-02-19
 category: "Outreach"
 ---
 
