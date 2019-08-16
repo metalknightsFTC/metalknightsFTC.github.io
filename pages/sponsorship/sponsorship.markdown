@@ -26,7 +26,7 @@ Running a robotics program costs a lot of money. When you sponsor us, you impact
 **Our Sponsors**
 ----------------
 
-+ MTA Foundation  ![](/assets/img/MTALogo.jpg)
++ MTA Foundation  ![](/assets/img/sponsors/MTALogo.jpg)
 
 **Contact Us!**
 ---------------
