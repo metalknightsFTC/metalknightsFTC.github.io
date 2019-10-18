@@ -26,6 +26,8 @@ Running a robotics program costs a lot of money. When you sponsor us, you impact
 ----------------
 
 + MTA Foundation  ![](/assets/img/sponsors/MTALogo.jpg)
++ Matanuska Electric Company 
++ DBA Artic Family Medicine
 
 **Contact Us!**
 ---------------
